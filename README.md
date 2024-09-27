@@ -1,6 +1,6 @@
 # Group theory experiments
 
-Formalisation of various parts of undergraduate group theory, with an eye on making an interactive Lean game.
+Formalisation of various parts of undergraduate group theory, with an eye on making an interactive Lean game. (Still requires a long long way to go)
 
 ## Contributing
 
